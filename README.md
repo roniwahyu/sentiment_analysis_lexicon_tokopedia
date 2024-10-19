@@ -1,0 +1,2 @@
+# sentiment_analysis_lexicon_tokopedia
+Sentiment Analysis Tokopedia Lexicon Based
